@@ -16,9 +16,7 @@ The primary goal of this project is to filter and clean SMS messages on a phone 
 - Built a corpus of processed messages.
 ### Model Buliding and Evaluation
 Models are evaluated using F1-score
-- Multinomial Naive Bayes
-- Decision Tree: Achieved
-- Random Forest: Achieved
+- Random Forest
 - Voting Classifier (Decision Tree + Multinomial Naive Bayes)
   
 This project successfully demonstrates the use of NLP and machine learning techniques to classify SMS messages as spam or ham.
